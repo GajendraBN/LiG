@@ -64,7 +64,7 @@ https://gajendrabn.github.io/LiG/
 
 
 ## Privacy Policy URL
-https://docs.google.com/document/d/1q-TNbmFKtqrTzwcgywuzOvejoLDZ3yW_ya-2QbT5uiY/edit?usp=sharing
+[Privacypolicy LiG](https://docs.google.com/document/d/1q-TNbmFKtqrTzwcgywuzOvejoLDZ3yW_ya-2QbT5uiY/edit?usp=sharing)
 
 ---
 ## 🖥️ Works Everywhere
