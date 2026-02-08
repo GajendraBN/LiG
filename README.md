@@ -87,7 +87,7 @@ App is a universal app:
 ## 📞 Support
 
 Need help or want to contribute?  
-📧 Email us at [support@motivationalq.com](mailto:g.innerpeacemaster@gmail.com)
+📧 Email us at [support@LiG.com](mailto:g.innerpeacemaster@gmail.com)
 
 This is an educational app designed to help newcomers to Germany understand bureaucracy, culture, and daily life. All content is informational and based on official German government sources.
 
