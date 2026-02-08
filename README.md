@@ -1,20 +1,7 @@
-# Leben in Deutschland - App Store Metadata
-
-## App Name
-**Leben in Deutschland - Guide**
-
-## Subtitle (30 characters max)
+# Life in Germany or Leben in Deutschland App
 Your Complete Germany Guide
 
-## Category
-Primary: Education
-Secondary: Lifestyle
-
----
-
-## App Store Description (4000 characters max)
-
-**Leben in Deutschland** is your comprehensive guide to starting a new life in Germany. Whether you're moving for work, study, or family, this app provides everything you need to navigate German bureaucracy, culture, and daily life.
+**Life in Germany** is your comprehensive guide to starting a new life in Germany. Whether you're moving for work, study, or family, this app provides everything you need to navigate German bureaucracy, culture, and daily life.
 
 **LEARN & UNDERSTAND**
 Master 12 essential topics with our interactive learning modules:
@@ -72,93 +59,35 @@ Start your journey to feeling at home in Germany today!
 
 ---
 
-## Keywords (100 characters max)
-germany,expat,anmeldung,integration,german,learn,visa,immigration,newcomer,guide,test,einbürgerung
-
----
-
-## What's New (Version 1.0)
-Welcome to Leben in Deutschland!
-
-- 12 comprehensive learning modules
-- 120+ quiz questions
-- 90+ curated free resources
-- Gamification with XP, levels, and streaks
-- Beautiful, intuitive interface
-- Dark mode support
-
----
-
-## Promotional Text (170 characters max)
-Your essential guide to life in Germany. Learn about Anmeldung, health insurance, renting, and more. 90+ free resources. Start your new life with confidence!
-
----
-
-## Screenshots Text Overlays
-
-**Screenshot 1 - Home Screen**
-"Your Germany Journey Starts Here"
-
-**Screenshot 2 - Learn Module**
-"Master 12 Essential Topics"
-
-**Screenshot 3 - Quiz Screen**
-"Test Your Knowledge"
-
-**Screenshot 4 - Resources Hub**
-"90+ Free Resources at Your Fingertips"
-
-**Screenshot 5 - Progress Dashboard**
-"Track Your Learning Progress"
-
-**Screenshot 6 - Module Detail**
-"Step-by-Step Guides for Every Topic"
-
----
-
 ## Support URL
-https://github.com/practicalfinder/leben-in-deutschland
+https://gajendrabn.github.io/LiG/
 
-## Marketing URL
-https://practicalfinder.com/lig
 
 ## Privacy Policy URL
-https://practicalfinder.com/privacy
+https://docs.google.com/document/d/1q-TNbmFKtqrTzwcgywuzOvejoLDZ3yW_ya-2QbT5uiY/edit?usp=sharing
+
+---
+## 🖥️ Works Everywhere
+
+App is a universal app:
+
+- iPhone, iPad, Mac, and Vision Pro  
+- Seamless iCloud sync across devices   
 
 ---
 
-## App Privacy Details
+## 🔐 Privacy First
 
-**Data Not Collected**
-This app does not collect any user data. All progress is stored locally on the device.
-
-**Data Not Linked to You**
-- Usage Data (stored locally for progress tracking only)
+- No tracking or ads  
+- No account required  
+- All data is stored locally  
 
 ---
 
-## Age Rating
-4+ (No objectionable content)
+## 📞 Support
 
-## Copyright
-© 2026 Practical Finder
-
----
-
-## Localization Notes
-
-### German (de-DE) App Name
-Leben in Deutschland - Ratgeber
-
-### German Subtitle
-Dein kompletter Deutschland-Guide
-
-### German Description
-(Translate main description to German)
-
----
-
-## App Review Notes
+Need help or want to contribute?  
+📧 Email us at [support@motivationalq.com](mailto:g.innerpeacemaster@gmail.com)
 
 This is an educational app designed to help newcomers to Germany understand bureaucracy, culture, and daily life. All content is informational and based on official German government sources.
 
